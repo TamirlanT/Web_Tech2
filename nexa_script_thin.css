@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Nexa Script Thin';
+	src: url('../fonts/nexa_script_thin.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/nexa_script_thin.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/nexa_script_thin.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/nexa_script_thin.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/nexa_script_thin.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/nexa_script_thin.svg#nexa_script_thin') format('svg'); /* Chrome < 4, Legacy iOS */
+}
